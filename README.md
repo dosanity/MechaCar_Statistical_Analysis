@@ -154,6 +154,20 @@ Based on our results for the t-test that compares manufacturing lot 3 against th
 
 ## Study Design: MechaCar vs Competition
 
+To further our analysis, we will design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
+#### Test Metrics
 
++ Fuel Efficiency: Measured by calculating the distance traveled by a vehicle and the amount of fuel consumed.
++ Vehicle Price: The price of vehicle sold in the market.
+
+#### Hypothesis
++ $H_0$: There is no statistical difference between the observed mean of fuel efficiency and price with the observed mean of its competitors.
++ $H_a$: There is a statistical difference between the observed mean of fuel efficiency and price with the observed mean of its competitors.
+
+#### Statistical Test
+Since we are determining whether the means of two-samples (MechaCar vs Competitors) are statistically different, we will be utilizing the two-sample t-test to perform this analysis. The two dependent variables in the two analyses would be fuel efficiency and vehicle price.
+
+#### Data Source
+Since data would be difficult to obtain before the release of competitor cars, we can collect or scrape the data from outside sources on previous car models in the same class as the MechaCar. The data could potentially be found through competitor webpages since the information is public after the car's release. We would need the fuel efficiency and vehicle price data from the competitors. 
 
