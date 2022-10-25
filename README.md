@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+The purpose of this project is to analyze data for a new prototype car, the MechaCar. There are production issues that are blocking the manufacturing team's progress and we are tasked to review the production data for insights. Using the programming language R, we will perform multiple linear regressions, summary statistics, and t-tests to produce statistical interpretations.
+
 ## Linear Regression to Predict MPG
 The `MechaCar_mpg.csv` dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. We will perform a multiple linear regression model to predict the `mpg` of MechaCar prototypes. In our analysis we will use:
 + All Wheel Drive: `AWD`
