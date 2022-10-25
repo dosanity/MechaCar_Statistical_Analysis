@@ -59,7 +59,7 @@ total_summary <- suspension %>% summarize(Mean=mean(PSI),Median=median(PSI),Vari
 | ------- | ------ | -------- | -------- |
 | 1498.78 | 1500   | 62.29356 | 7.892627 |
 
-In the summary of the entire suspenstion coil dataset, we can see that the mean PSI is 1498.78 and the median PSI is 1500. Additionally, the variance is 62.29356 and the standard deviation is 7.892627. Overall, since the variance of the suspension coils does not exceed 100 pounds per square inch, it meets the design specifications for the MechaCar suspension coils. 
+In the summary of the entire suspension coil dataset, we can see that the mean PSI is 1498.78 and the median PSI is 1500. Additionally, the variance is 62.29356 and the standard deviation is 7.892627. Overall, since the variance of the suspension coils does not exceed 100 pounds per square inch, it meets the design specifications for the MechaCar suspension coils. 
 
 #### Individual Lot Suspension Summary
 ```
